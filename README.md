@@ -1,4 +1,4 @@
-<h1>Hi, I'm Rudy! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/rudy-garza-233336169/">IT / Cybersecurity Analyst</a>, <a href="www.youtube.com/@rudygarza3248">YouTuber</a></h1>
+<h1>Hi, I'm Rudy! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/rudy-garza-233336169/">IT System Analyst - Cybersecurity Analyst</a>, <a href="www.youtube.com/@rudygarza3248">YouTuber</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
