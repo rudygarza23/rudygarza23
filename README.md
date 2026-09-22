@@ -26,18 +26,12 @@ My technical interests include Active Directory, Windows Server, PowerShell auto
 
 ### Key Focus Areas
 
-### Key Focus Areas
+`Windows Server` `Active Directory` `Endpoint Support` `Secure Access` `PowerShell`  
+`Networking` `SIEM` `Threat Analysis` `Cybersecurity` `Compliance`
 
-![Windows Server](https://img.shields.io/badge/Windows_Server-0078D4?style=flat-square)
-![Active Directory](https://img.shields.io/badge/Active_Directory-003366?style=flat-square)
-![Endpoint Support](https://img.shields.io/badge/Endpoint_Support-4C566A?style=flat-square)
-![Secure Access](https://img.shields.io/badge/Secure_Access-3B4252?style=flat-square)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
-![Networking](https://img.shields.io/badge/Networking-1BA0D7?style=flat-square)
-![SIEM](https://img.shields.io/badge/SIEM-434C5E?style=flat-square)
-![Threat Analysis](https://img.shields.io/badge/Threat_Analysis-2E3440?style=flat-square)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-2E3440?style=flat-square)
-![Compliance](https://img.shields.io/badge/Compliance-5E81AC?style=flat-square)
+---
+
+## Core Technical Skills
 
 ---
 
