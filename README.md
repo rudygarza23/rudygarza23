@@ -20,11 +20,14 @@ Infrastructure Support Administrator | Business Applications & IT Support | Secu
 
 ## About Me
 
-I am an IT professional focused on systems administration, cybersecurity, infrastructure, technical support, automation, and IT management.
+## About Me
 
-I use this GitHub profile to document hands-on technical projects, lab environments, PowerShell scripts, troubleshooting exercises, and cybersecurity work.
+I am an IT professional focused on infrastructure support, business applications,
+endpoint support, secure access, systems administration, and cybersecurity.
 
-My goal is to demonstrate practical technical skills through documented projects rather than simply listing technologies.
+My technical interests include Active Directory, Windows Server, PowerShell
+automation, security monitoring, SIEM, threat analysis, networking, and
+compliance-aware IT operations.
 
 ---
 
