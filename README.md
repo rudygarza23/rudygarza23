@@ -11,7 +11,7 @@ IT Professional | Cybersecurity | Systems Administration | IT Management
   <a href="https://rudygarza23.github.io/">
     <img src="https://img.shields.io/badge/Portfolio-View_Portfolio-0A66C2?style=for-the-badge">
   </a>
-  <a href="[YOUR-LINKEDIN-URL](https://www.linkedin.com/in/rudygarza-infotech/)">
+  <a href="https://www.linkedin.com/in/rudygarza-infotech/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </p>
