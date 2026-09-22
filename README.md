@@ -105,5 +105,5 @@ My project documentation, screenshots, labs, and technical work are available th
   &nbsp; | &nbsp;
   <a href="https://rudygarza23.github.io/">Portfolio</a>
   &nbsp; | &nbsp;
-  <a href="YOUR-LINKEDIN-URL">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/rudygarza-infotech/">LinkedIn</a>
 </p>
