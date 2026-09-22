@@ -10,7 +10,7 @@ Building, supporting, securing, automating, and documenting IT environments.
 
 [![Portfolio](https://img.shields.io/badge/VIEW_PORTFOLIO-0A66C2?style=for-the-badge)](https://rudygarza23.github.io/)
 [![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rudygarza23)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR-LINKEDIN-URL)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/rudygarza-infotech)
 
 </div>
 
