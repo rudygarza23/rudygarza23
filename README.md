@@ -22,12 +22,20 @@ Infrastructure Support Administrator | Business Applications & IT Support | Secu
 
 ## About Me
 
-I am an IT professional focused on infrastructure support, business applications,
-endpoint support, secure access, systems administration, and cybersecurity.
+## About Me
 
-My technical interests include Active Directory, Windows Server, PowerShell
-automation, security monitoring, SIEM, threat analysis, networking, and
-compliance-aware IT operations.
+I am an IT professional focused on infrastructure support, business applications, endpoint support, secure access, systems administration, and cybersecurity.
+
+My technical interests include Active Directory, Windows Server, PowerShell automation, security monitoring, SIEM, threat analysis, networking, and compliance-aware IT operations.
+
+### Key Focus Areas
+
+`Windows Server` `Active Directory` `Endpoint Support` `Secure Access` `PowerShell`  
+`Networking` `SIEM` `Threat Analysis` `Cybersecurity` `Compliance`
+
+---
+
+## Core Technical Skills
 
 ---
 
