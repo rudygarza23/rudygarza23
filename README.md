@@ -1,7 +1,7 @@
 <h1 align="center">Rudy Garza</h1>
 
 <h3 align="center">
-Infrastructure Support Administrator | Cybersecurity | Systems Administration | IT Management
+Infrastructure Support Administrator | Business Applications & IT Support | Security Monitoring & SIEM
 </h3>
 
 <p align="center">
