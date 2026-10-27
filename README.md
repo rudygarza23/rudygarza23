@@ -85,8 +85,6 @@ My technical interests include Active Directory, Windows Server, Linux administr
 | **Active Directory Lab** | Windows Server domain environment with users, groups, OUs, Group Policy, DNS, DHCP, and access management | Windows Server, AD DS, DNS, DHCP, PowerShell |
 | **Active Directory Automation** | Automated user and administrative tasks | PowerShell, Active Directory |
 | **Linux Server Hardening Lab** | Ubuntu Server security hardening covering secure access, firewall configuration, intrusion prevention, system auditing, and vulnerability reduction | Ubuntu Server, Linux, SSH, UFW, Fail2ban, Lynis |
-| **Windows Event Log Analysis** | Analysis and processing of Windows security events | PowerShell, Windows Event Logs |
-| **File Integrity Monitoring** | Monitors files for changes and integrity issues | PowerShell, Cybersecurity |
 | **Networking Labs** | IP addressing, DNS, DHCP, and troubleshooting exercises | TCP/IP, DNS, DHCP |
 | **IT Portfolio** | Personal technical portfolio built and hosted with GitHub Pages | HTML, CSS, JavaScript |
 
