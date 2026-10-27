@@ -1,6 +1,6 @@
 # Rudy Garza
 
-**Infrastructure Support Administrator | Business Applications & IT Support | Security Monitoring & SIEM | Vulnerability Management | Tenable | Azure | Sentinel | Endpoint Detection & Response**
+**Infrastructure Support Administrator | Business Applications & IT Support | Security Monitoring & SIEM | Vulnerability Management | Tenable | Azure | Microsoft Sentinel & Defender | Endpoint Detection & Response**
 
 [![Portfolio](https://img.shields.io/badge/VIEW_PORTFOLIO-1976D2?style=for-the-badge)](https://rudygarza23.github.io/)
 [![GitHub](https://img.shields.io/badge/GITHUB_PROFILE-252525?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rudygarza23)
