@@ -271,6 +271,7 @@ It also demonstrates the ability to develop, publish, maintain, and update a web
 **Project Status:** Published. Ongoing Maintenance and Development
 
 **GitHub Repository:** https://github.com/rudygarza23/rudygarza23.github.io
+
 **GitHub:** https://rudygarza23.github.io/
 
 ---
