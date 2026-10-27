@@ -143,7 +143,7 @@ This lab is designed to strengthen hands-on experience in user administration, i
 
 The project will include technical documentation and screenshots demonstrating administrative configurations, successful testing, and troubleshooting results.
 
-**Project Status:** In Progress
+**Project Status:** Completed. 
 
 ---
 
@@ -189,7 +189,7 @@ Demonstrate practical Linux administration and cybersecurity skills through the 
 
 The project documentation will include security configurations, commands, screenshots, troubleshooting procedures, and security audit results.
 
-**Project Status:** In Progress
+**Project Status:** Completed. 
 
 ---
 
@@ -212,11 +212,56 @@ I am currently expanding my hands-on experience with:
 
 ---
 
-## Portfolio
+## IT Portfolio Website
 
-My project documentation, screenshots, labs, and technical work are available through my portfolio.
+**Personal IT Portfolio Development & GitHub Pages Hosting**
 
-[![Visit Portfolio](https://img.shields.io/badge/VISIT_MY_IT_PORTFOLIO-1976D2?style=for-the-badge)](https://rudygarza23.github.io/)
+A hands-on web development project focused on designing, building, and publishing a personal IT portfolio website using HTML, CSS, JavaScript, GitHub, and GitHub Pages.
+
+The project demonstrates foundational front-end web development, website organization, technical documentation, and web hosting skills.
+
+The portfolio serves as a centralized location to showcase professional experience, technical skills, hands-on IT labs, cybersecurity projects, and career development.
+
+### Project Objectives
+
+- Design and develop a personal IT portfolio website
+- Build website pages using HTML5
+- Use CSS3 to create layouts, formatting, and visual styling
+- Implement JavaScript for basic website functionality and navigation
+- Organize website content into professional sections
+- Create pages highlighting technical skills and experience
+- Showcase Active Directory and Linux Server Hardening projects
+- Provide links to GitHub repositories and project documentation
+- Host and publish the website using GitHub Pages
+- Maintain website source code through GitHub
+- Update the portfolio as additional technical projects are completed
+
+### Technologies Used
+
+HTML5 | CSS3 | JavaScript | GitHub | GitHub Pages | Web Development
+
+### Skills Demonstrated
+
+- Front-End Web Development
+- Website Design and Organization
+- HTML and CSS
+- JavaScript Fundamentals
+- Static Website Hosting
+- GitHub Repository Management
+- Technical Documentation
+- IT Project Presentation
+
+### Project Goal
+
+Demonstrate practical web development and technical documentation skills through the creation and maintenance of a professional IT portfolio.
+
+The website provides employers with a centralized location to review hands-on Windows Server administration, Active Directory, Linux security, PowerShell, networking, and cybersecurity projects.
+
+It also demonstrates the ability to develop, publish, maintain, and update a website using industry-standard web technologies and GitHub Pages.
+
+**Project Status:** Published. Ongoing Maintenance and Development
+
+**GitHub Repository:** https://github.com/rudygarza23/rudygarza23.github.io
 
 ---
 
