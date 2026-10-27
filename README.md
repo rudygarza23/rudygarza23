@@ -214,7 +214,11 @@ I am currently expanding my hands-on experience with:
 
 ## IT Portfolio Website
 
-![Personal IT Portfolio Development & GitHub Pages Hosting](https://img.shields.io/badge/Personal IT Portfolio Development & GitHub Pages Hosting-1976D2?style=flat-square)
+
+![Personal IT Portfolio](https://img.shields.io/badge/Personal%20IT%20Portfolio-FACC15?style=flat-square)
+![Development](https://img.shields.io/badge/Development-DC2626?style=flat-square)
+![GitHub Pages Hosting](https://img.shields.io/badge/GitHub%20Pages%20Hosting-1976D2?style=flat-square)
+
 
 A hands-on web development project focused on designing, building, and publishing a personal IT portfolio website using HTML, CSS, JavaScript, GitHub, and GitHub Pages.
 
